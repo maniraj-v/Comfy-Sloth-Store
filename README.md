@@ -20,3 +20,7 @@
 
 .env file in the root
 FAST_REFRESH=FALSE
+
+#### Project Live link
+
+https://react-comfy-sloth-shop.netlify.app/
