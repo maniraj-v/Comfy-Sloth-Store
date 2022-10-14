@@ -4,7 +4,7 @@ import styled from 'styled-components'
 const Contact = () => {
   return <Wrapper>
           <div className='section-center'>
-            <h3>Join our newsletter and get 20% off</h3>
+            <h3>Join our newsletter and get 25% off</h3>
             <div className='content'>
                 <p>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat
